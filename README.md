@@ -706,4 +706,6 @@
 
 * [移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN](http://appium.io/slate/cn/v1.2.0/)
 
+###  微信开发 
 
+* [Node.js微信开发](https://i5ting.github.io/wechat-dev-with-nodejs/)
