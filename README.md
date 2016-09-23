@@ -11,7 +11,7 @@
 
 欢迎订阅我的微信公众帐号，只推送原创文字。欢迎扫描二维码订阅：
 
-![justjavac微信公众帐号](https://github.com/xiupijiang/book/weixin-xiupijiang.jpg)
+![xiupi酱微信公众帐号](https://github.com/xiupijiang/book/blob/master/weixin-xiupijiang.jpg)
 
 感谢 [@siberiawolf](https://github.com/siberiawolf) 使用 Bootstrap 开发了网页版，地址：http://siberiawolf.com/free_programming/index.html
 
